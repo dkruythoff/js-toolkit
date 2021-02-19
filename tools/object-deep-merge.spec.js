@@ -2,7 +2,7 @@ import { expect } from 'chai'
 import objectDeepMerge from './object-deep-merge'
 
 describe('objectDeepMerge', () => {
-  it('handles complex input', () => {
+  it('Handles complex input', () => {
     const obj1 = {
       a: 1,
       b: 1, 
